@@ -1,0 +1,15 @@
+PYTHON BACKUP LOGFILE
+Backup started at: 10120179:7:10
+The deleting,creation, or copying of any files or folders will be logged below
+---------------------------------------------
+
+Folder created: C:\Users\jesse\Documents\Coding\python_backup\Source 1 Backup
+Copied file C:\Users\jesse\Documents\Coding\python_backup\Source 1\New OpenDocument Text.odt to C:\Users\jesse\Documents\Coding\python_backup\Source 1 Backup\New OpenDocument Text.odt
+Folder created: C:\Users\jesse\Documents\Coding\python_backup\Source 1 Backup\normal folder
+Copied file C:\Users\jesse\Documents\Coding\python_backup\Source 1\normal folder\file1.txt to C:\Users\jesse\Documents\Coding\python_backup\Source 1 Backup\normal folder\file1.txt
+Folder created: C:\Users\jesse\Documents\Coding\python_backup\Source 2 Backup
+Copied file C:\Users\jesse\Documents\Coding\python_backup\Source 2\source 2 stuff.odt to C:\Users\jesse\Documents\Coding\python_backup\Source 2 Backup\source 2 stuff.odt
+Folder created: C:\Users\jesse\Documents\Coding\python_backup\Source 2 Backup\src2 sub folder
+Copied file C:\Users\jesse\Documents\Coding\python_backup\Source 2\src2 sub folder\dfsdfsad fasf asdf .pub to C:\Users\jesse\Documents\Coding\python_backup\Source 2 Backup\src2 sub folder\dfsdfsad fasf asdf .pub
+
+Backup completed successfully on 1012017 at 9:7:10
