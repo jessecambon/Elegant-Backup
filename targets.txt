@@ -16,8 +16,3 @@ C:\Users\jesse\Documents\Coding\python_backup\Source 2; C:\Users\jesse\Documents
 #C:\Users\Jesse\Desktop 		; 	G:\Backup\Desktop
 
 
-
-#C:\Users\fatsheep\Documents\OneNote Notebooks ; F:\Backup\OneNote Notebooks
-#C:\Users\fatsheep\Videos ; F:\Backup\Videos
-#C:\Users\fatsheep\Calibre Library ; F:\Backup\Calibre Library
-#C:\wamp\www; F:\Backup\www
