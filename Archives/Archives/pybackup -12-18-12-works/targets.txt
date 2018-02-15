@@ -1,0 +1,18 @@
+# File format:
+# <TARGET> ; <DESTINATION>
+# <TARGET> is backed up to <DESTINATION>
+# Use # to comment lines, also empty lines are not read
+# leading and trailing spaces are stripped from filenames and paths
+
+# Test cases
+#C:\Users\fatsheep\Desktop\backup_utility\Source 1; Source 1 Backup
+#C:\Users\fatsheep\Desktop\backup_utility\Source 2; Source 2 Backup
+
+
+# These are the folders to be backed up
+C:\Users\fatsheep\Personal Documents ; F:\Backup\Personal Documents
+C:\Users\fatsheep\Pictures ; F:\Backup\Pictures
+C:\Users\fatsheep\Desktop ; F:\Backup\Desktop
+C:\Users\fatsheep\Documents\OneNote Notebooks ; F:\Backup\OneNote Notebooks
+C:\Users\fatsheep\Videos ; F:\Backup\Videos
+C:\Users\fatsheep\Calibre Library ; F:\Backup\Calibre Library

@@ -1,0 +1,5 @@
+has problems with crazy UTF-16 characters when deleting files
+currently doesn't delete folders (ever)
+currently uses an xcopy terminal command so the copy function will only work on Windows
+Currently doesnt make a logfile
+currently works on Python 2.7.3

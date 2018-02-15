@@ -1,0 +1,23 @@
+# File format:
+# <TARGET> ; <DESTINATION>
+# IF <TARGET> is a file path then <DESTINATION> must also be a filepath
+# WARNING: BE CAREFUL WHERE YOU SPECIFY A DESTINATION
+# FILES AND FOLDERS IN THE DESTINATION MAY BE DELETED
+
+# Test cases
+C:\Users\jesse\Documents\Coding\python_backup\Source 1; C:\Users\jesse\Documents\Coding\python_backup\Source 1 Backup
+C:\Users\jesse\Documents\Coding\python_backup\Source 2; C:\Users\jesse\Documents\Coding\python_backup\Source 2 Backup
+
+
+###### These are the folders to be backed up ####
+#C:\Users\Jesse\Documents	; 	G:\Backup\Documents
+#C:\Users\Jesse\Coding 		; 	G:\Backup\Coding 
+#C:\Users\Jesse\Pictures 	; 	G:\Backup\Pictures
+#C:\Users\Jesse\Desktop 		; 	G:\Backup\Desktop
+
+
+
+#C:\Users\fatsheep\Documents\OneNote Notebooks ; F:\Backup\OneNote Notebooks
+#C:\Users\fatsheep\Videos ; F:\Backup\Videos
+#C:\Users\fatsheep\Calibre Library ; F:\Backup\Calibre Library
+#C:\wamp\www; F:\Backup\www

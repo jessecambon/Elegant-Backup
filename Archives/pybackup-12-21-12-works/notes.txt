@@ -1,0 +1,33 @@
+os.listdir()  # lists files and folders in directory (NOT recursive) 
+os.getcwd()   # gets current working 
+os.mkdir(path)    # makes directory in path (NOT recursive)
+os.makedirs(path)  # makes directory in path recursively 
+os.remove(path)   # used to delete files
+os.removedirs(path)  # used to delete directories
+os.system(command)   # runs command in terminal
+
+
+Stuff to do:
+
+DONE: cross platform capability (find a python function replacement function for xcopy)
+DONE?: Have it make all dest directories if they don't exist 
+(that way xcopy doesn't ask that prompt and hold up the backup process 
+especially if the user is away from the computer)
+DONE: Add log file capabilities
+DONE: Make it delete directories (in destination)
+DONE: Add more verbose output
+
+
+- Record number of errors and output this at the end
+- Enable the script to skip specified files and folders
+- Have it log the python error output (currently this is not recorded 
+due to the try, except statements i think...)
+
+- Have it check that the files and folders are actually the same?
+
+Long term stuff to do:
+- GUI?
+- Include support for archiving
+- Include support for encryption?
+- Add support for crazy filename ASCII characters
+- Convert to Python 3+ capatibility
