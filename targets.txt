@@ -3,6 +3,9 @@
 # IF <TARGET> is a file path then <DESTINATION> must also be a filepath
 # WARNING: BE CAREFUL WHERE YOU SPECIFY A DESTINATION
 # FILES AND FOLDERS IN THE DESTINATION MAY BE DELETED
+#
+# Lines that start with '#' are comments and will not be used by
+# the script.
 
 # Test cases
 C:\Users\jesse\Documents\Coding\python_backup\Source 1; C:\Users\jesse\Documents\Coding\python_backup\Source 1 Backup
